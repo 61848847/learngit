@@ -1,1 +1,2 @@
-hi,luke hehe 
+hi,luke hehe
+init hello
